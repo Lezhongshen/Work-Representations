@@ -1,1 +1,1 @@
-### 123
+### Used Python to scrape the movie data from IMDB websites and get Joe Biden’s tweets data through twitter API, cleaned the data, made data visualizations and used statistic methods such as OLS and logistic regression to conduct data analysis.
